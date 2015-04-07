@@ -1,0 +1,11 @@
+@charset "UTF-8";
+img {
+	float: right;
+	margin-right: 200px;
+	margin-bottom: 30px;
+	margin-top: -20px;
+}
+#Image2 {
+	margin-right: 250px;
+	float: left;
+}
